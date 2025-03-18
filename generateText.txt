@@ -1,0 +1,1 @@
+"This is surely gonna be a conflict, just make sure you accept both the changes"
